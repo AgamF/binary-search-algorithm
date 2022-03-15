@@ -1,2 +1,2 @@
 # binary-search-algorithm
-An algorithm used to search a specific element in a sorted array of numbers ranging from 1 to 1000, also compares the result with an iterative search
+A recursive algorithm used to search a specific element in a sorted array of numbers ranging from 1 to 1000, also compares the result with an iterative search
